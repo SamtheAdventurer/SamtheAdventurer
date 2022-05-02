@@ -1,11 +1,17 @@
 Hello y'all
 
 Name: Samuel
+
 age: 21
+
 Gender: male
+
 Pronouns: he/him
+
 Status: taken
+
 DMs: open 
+
 Location and time zone: United States, CST
 
 
